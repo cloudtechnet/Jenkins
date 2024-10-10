@@ -1,6 +1,6 @@
 # How Jenkins Fits in the DevOps LifeCycle
 
-###DevOps Lifecycle:
+### DevOps Lifecycle:
 1. **Plan** → 2. **Code** → 3. **Build** → 4. **Test** → 5. **Release** → 6. **Deploy** → 7. **Operate** → 8. **Monitor**
 
 Jenkins plays a central role in multiple stages of the DevOps lifecycle:
