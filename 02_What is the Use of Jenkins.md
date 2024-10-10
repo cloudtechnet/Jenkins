@@ -1,6 +1,6 @@
 # What is the Use of Jenkins?
 
-###Jenkins is primarily used to:
+### Jenkins is primarily used to:
 
 1. **Continuous Integration (CI):** Jenkins automates the integration of code from multiple developers, ensuring that new code is tested and merged frequently into the main codebase.
    
